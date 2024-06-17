@@ -35,6 +35,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+![Alibaba-Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00.svg?style=for-the-badge&logo=Alibaba-Cloud&logoColor=white)
 
 ### Currently learning
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
