@@ -7,6 +7,7 @@
 
 ## Skills / Tools
 ### Possibly adept
+> In other words, already crossed the beginner's threshold.
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
