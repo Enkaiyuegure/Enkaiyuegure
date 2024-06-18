@@ -45,12 +45,15 @@
 
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go)
 
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://gohugo.io/)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
 ![LXC](https://img.shields.io/badge/LXC-008000?style=for-the-badge&logo=linux&logoColor=white)
 [![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/vercel)
 
 ### Planned
 [![Risc-v](https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=white)](https://riscv.org/)
@@ -59,6 +62,3 @@
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/vercel)
-
-[![Hugo](https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://gohugo.io/)
