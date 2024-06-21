@@ -4,6 +4,7 @@
 - Interested in Computer Science, Electrical Engineering and Artificial Intelligence.
 - Loving Linux(especially NixOS), Tiling Window Manager and Command-Line.
 - In the process of learing Kubernetes, IoT, DeepLearning, etc.
+- During undergraduate studies, develop into FSD. Then specialize in SRE during graduate studies. It's a bit difficult, but I like it. :)
 
 ## Skills / Tools
 ### Possibly adept
