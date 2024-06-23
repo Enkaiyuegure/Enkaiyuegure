@@ -6,6 +6,13 @@
 - In the process of learing Kubernetes, IoT, DeepLearning, etc.
 - During undergraduate studies, develop into FSD. Then specialize in SRE during graduate studies. It's a bit difficult, but I like it. :)
 
+<details>
+  <summary>My github status</summary>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Enkaiyuegure&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB"/>
+  </a>
+</details>
+
 ## Skills / Tools
 ### Possibly adept
 > In other words, already crossed the beginner's threshold.
