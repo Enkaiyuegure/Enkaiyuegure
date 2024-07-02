@@ -13,6 +13,13 @@
   </a>
 </details>
 
+<details>
+  <summary>Top langs</summary>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enkaiyuegure&langs_count=10&theme=tokyonight&layout=compact"/>
+  </a>
+</details>
+
 ## Skills / Tools
 ### Possibly adept
 > In other words, already crossed the beginner's threshold.
