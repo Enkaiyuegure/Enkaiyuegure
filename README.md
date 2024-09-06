@@ -1,6 +1,6 @@
 ## Enkaiyuegure
 
-- A freshman student.
+- A sophomore student.
 - Interested in Computer Science, Electrical Engineering and Artificial Intelligence.
 - Loving Linux(especially NixOS), Tiling Window Manager and Command-Line.
 - In the process of learing Kubernetes, IoT, DeepLearning, etc.
